@@ -6,6 +6,6 @@ Business growth, customers acqusition and retention have been the main goals to 
 
 ## North Star Metrics
 1. Sales Trends - Focusing on Sales Revenue, Quantity Sold,  Average Order Value (AOV), Total Profit, and Profit Margin
-2. Product Performance - 
+2. Product Performance - Analyzing sales and profits for each sub category
 
 
