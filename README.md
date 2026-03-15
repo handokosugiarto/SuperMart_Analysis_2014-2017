@@ -16,6 +16,9 @@ The SQL queries regarding business analysis can be found here
  **SuperMart** database structure as seen below consists of 1 table:  with a total row count of 9994 records
 
  ## Executive Summary
+ 
+ 
+ 
  ### Overview Findings
  1. Since its establishment in 2014, **SuperMart** has delivered consistent revenue growth, rising from $487K in 2014 to $733K in 2017, with average yearly growth rate or CAGR of 15%.
  2. Dispite of rising in sales revenue, **SuperMart** AOV has shown declined trend from $243 in 2014 to $221 in 2017, with average yearly decline rate of 3%. This situation means that sales growth is driven by the increase in number of order and customer aquisition rather than higher spending per transaction.
