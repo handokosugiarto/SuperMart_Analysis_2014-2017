@@ -31,3 +31,6 @@ The SQL queries regarding business analysis can be found here
 
 ## Insights Deep Dive
 
+### Sales Trends
+
+
