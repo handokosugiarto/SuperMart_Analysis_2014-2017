@@ -32,5 +32,8 @@ The SQL queries regarding business analysis can be found here
 ## Insights Deep Dive
 
 ### Sales Trends
+![Sales Trends](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/SuperMart%20Sales%20Trends.png)
+
+1. SuperMart's sales performance showed a recurring seasonal pattern with revenue peaking in Q4 each year driven by increase in consumer spending during the holiday shopping periodi n November and Decemnber.
 
 
