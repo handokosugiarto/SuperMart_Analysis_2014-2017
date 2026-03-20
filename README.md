@@ -34,6 +34,7 @@ The SQL queries regarding business analysis can be found here
 ### Sales Trends
 ![Sales Trends](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/SuperMart%20Sales%20Trends.png)
 
-1. SuperMart's sales performance showed a recurring seasonal pattern with revenue peaking in Q4 each year driven by increase in consumer spending during the holiday shopping periodi n November and Decemnber.
+1. SuperMart's sales performance demonstrates consistent revenue growth, achieving a CAGR 15% from 2014 to 2017. Additionally, sales trends exhibits a clear seasonal pattern with revenue peaking in Q4 each year driven by increase in consumer spending during the holiday shopping period in November and Decemnber. Notably, sales reached a peak of $280K in Q4 2017, representing 43% increase from $196K in Q3 2017.
+2. Dispite of  
 
 
