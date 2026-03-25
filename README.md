@@ -24,7 +24,7 @@ The SQL queries regarding business analysis can be found here
  
  ### Overview Findings
  1. Since its establishment in 2014, **SuperMart** has delivered consistent revenue growth, rising from $487K in 2014 to $733K in 2017, with average yearly growth rate or CAGR of 15%.
- 2. Dispite of rising in sales revenue, **SuperMart** AOV has shown a decline trend on average from $243 in 2014 to $221 in 2017, with average yearly decline rate of 3%. This situation means that sales growth is driven by the increase in number of order and customer aquisition rather than higher spending per transaction.
+ 2. Dispite of rising in sales revenue, **SuperMart** AOV has shown a decline trend on average from $243 in 2014 to $221 in 2017, with average yearly decline rate of -4%. This situation means that sales growth is driven by the increase in number of order and customer aquisition rather than higher spending per transaction.
  3. **SuperMart** has delivered consistent growth in quantity sales, rising from 7.6K in 2014 to 12.5K in 2017, with average yearly growth rate or CAGR of 18%.
  4. **SuperMart** has delivered consistent growth in profit, rising from $50K in 2014 to 93K in 2017, with average yearly growth rate of 24%.
  5. Profit margin is rising from 10% in 2014 to 13% in 2017.
