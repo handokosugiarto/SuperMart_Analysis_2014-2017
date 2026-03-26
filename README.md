@@ -6,7 +6,7 @@ Business growth, customers acquisition and retention have been the main goals to
 
 ## North Star Metrics
 1. Sales Trends - Focusing on Sales Revenue, Quantity Sold,  Average Order Value (AOV), Total Profit, and Profit Margin
-2. Product Performance - Analyzing sales and profits for each product sub-category, understanding the impact on sales and profit for its    business growth.
+2. Product Performance - Analyzing sales and profits for each product sub-category, understanding the impact on sales and profit for its business growth.
 3. Customer segment- Analyzing and evaluating customer segmentation by comparing between customer acquisition and retention.
 4. Regional Comparison - An evaluation of sales and order by region.
 An interactive Tableau dashboard can be downloaded here
@@ -34,9 +34,13 @@ The SQL queries regarding business analysis can be found here
 ### Sales Trends
 ![Sales Trends](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/SuperMart%20Sales%20Trends.png)
 
-1. SuperMart's sales performance demonstrates consistent revenue growth, achieving a CAGR 15% from 2014 to 2017. Additionally, sales trends exhibits a clear seasonal pattern with revenue peaking in Q4 each year driven by increase in consumer spending during the holiday shopping period in November and Decemnber. Notably, sales reached a peak of $280K in Q4 2017, representing 30% increased from $196K in Q3 2017. While Q4 is considered as a highest seasonal sales trend, contraritly Q1 is the lowest sales trend in a year and start rising respectively afterward. Average yearly drop from Q4 to Q1 is 53%.
-2. SuperMart demonstrates consistent growth in sales quantity or market demand, achieving a CAGR of 18% from 2014 to 2017. Following seasonal pattern from sales revenue, Sales unit reached its peak in Q4 2017 (5K units sold) while Q1 reached the lowest sales in the year. With a CAGR 18% in sales Units and 15% in Sales Revenue, this shows that sales volume is growing faster than revenue, sugesting a decline in average selling price, potentially driven by increase in discounting or shift toward lower price products. 
+1. SuperMart's sales performance demonstrates consistent revenue growth, achieving a CAGR 15% from 2014 to 2017. Additionally, sales trends exhibit a clear seasonal pattern with revenue peaking in Q4 each year, driven by an increased in consumer spending during the holiday shopping period in November and December. Notably, sales reached a peak of $280K in Q4 2017, representing a 30% increase from $196K in Q3 2017. While Q4 consistently represents the sales peak period, Q1 marks lowest point of the year, with performance gradually improving in subsequent quarters. On average, sales decline by approximatelly 53% from Q4 to Q1.
+2. SuperMart demonstrates consistent growth in sales quantity or market demand, achieving a CAGR of 18% from 2014 to 2017. Following the seasonal pattern from sales revenue, sales quantity reached their peak in Q4 2017 (5K units sold) while Q1 reached the lowest sales in the year. With a CAGR 18% in sales quantity and 15% in sales revenue, this shows that sales volume is growing faster than revenue, sugesting a decline in average selling price, potentially driven by increase in discounting or shift toward lower price products. 
 3. Profit has taken the same movement as sales revenue over the years. It has shown consistent growh with a CAGR 24% From 2014 to 2017. Despite of its growth movement, profit has reached its highest peak of $38K in Q4 2016, representing 58% increased from $16K in Q3 2016.  
 4. Despite of consistent growth in sales revenue and profit, Average Order Value (AOV) has shown a fluctuative trends with downward tendencies from Q1 2014 to Q4 2017. At the establishment AOV reached $264 in Q1 2014, representing -13% decreased from $230 in Q4 2017. AOV exhibits a fluctuating trend, reflecting inconsistent customer purchasing behavior and the influence of seasonal or promotional factors.
-5.  Profit margin shows quarterly fluctuations over the 2014-2017 period, while demonstrating an overal upward trend, increasing from 5% in Q1 2014 to 10% in Q4 2017. The margin peaked in Q1 2017 at 19% ($24K in profit), compared to 16% in Q4 2016 ($38K in profit). This comparison highlights a trade off between volume and profitability: Q4 2016 performance was driven by high sales volume likely due to holiday promotions, whereas Q1 2017 achieved higher profit margin despite of lower sales volume.     
+5.  Profit margin shows quarterly fluctuations over the 2014-2017 period, while demonstrating an overal upward trend, increasing from 5% in Q1 2014 to 10% in Q4 2017. The margin peaked in Q1 2017 at 19% ($24K in profit), compared to 16% in Q4 2016 ($38K in profit). This comparison highlights a trade off between volume and profitability: Q4 2016 performance was driven by high sales volume likely due to holiday promotions, whereas Q1 2017 achieved higher profit margin despite of lower sales volume.
+
+### Product Performance
+
+1. Phones were the leading revenue contributor from 2014 to 2017, outperforming other sub categories in total Sales.   
 
