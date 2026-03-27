@@ -42,7 +42,7 @@ The SQL queries regarding business analysis can be found here
 5.  Profit margin shows quarterly fluctuations over the 2014-2017 period, while demonstrating an overal upward trend, increasing from 5% in Q1 2014 to 10% in Q4 2017. The margin peaked in Q1 2017 at 19% ($24K in profit), compared to 16% in Q4 2016 ($38K in profit). This comparison highlights a trade off between volume and profitability: Q4 2016 performance was driven by high sales volume likely due to holiday promotions, whereas Q1 2017 achieved higher profit margin despite of lower sales volume.
 
 ### Product Performance
-
+![Product Performance]
 1. Phones have become the leading revenue contributor from 2014 to 2017, outperforming other sub categories in total Sales. Total Phones sales has reached $330K from 2014 to 2017, representing 14.4% from total sales revenue in 2014 to 2017. Phones sales have consistently generated positive sales across period indicating stable and sustained demand. Phones sales has grown from $77K in 2014, representing 36% growth, to $106K in 2017. Phones' profits have grown from $12K in 2014 , representing 9% growth, to $13K in 2017. Eventhough profit margin has shown declining trends from 2014 to 2017 (15% to 12%), it is showing strong performance since the profit margin is in the range of average profit margin 2017 is 12%. Please find below for Top 10 products name that contributes to the phones sub-category performance over time (2014 -2017)
 
  
