@@ -57,7 +57,7 @@ The SQL queries regarding business analysis can be found here
 ![Copiers](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/177f77aba7fdb7b40a285a32fe9cd2be56485e4d/Tableaucharts/Top%2010%20%20Best%20Selling%20copiers.png) ![Copiers](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/5892dcb77ffe8c5bb3bfe9963e442c85f0031bd3/Tableaucharts/Top%2010%20Worst%20Copiers.png)
 
 ### Customer Segment
-![Customer Segment](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/7ccf24643bfa0d9c908fedffb80c1928f689e4d0/Tableaucharts/Customer%20Table.png)
+![Customer Segment](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/99aa9e6bbd55aa63c842391e72ef25993b1c9649/Tableaucharts/Customer%20Table.png)
 
 SuperMart segments its customers into three categories based on customer lifespan. New customers are defined as those who have been with the company less than three months while Active customers are those with a lifespan between three to twelve months and Loyal customers are those with a lifespan more than twelve months.
 
