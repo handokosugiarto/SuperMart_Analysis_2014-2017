@@ -64,3 +64,5 @@ SuperMart segments its customers into three categories based on customer lifespa
 3. Loyal Customers have increased significantly from 2015 to 2017. Total Loyal customers were 290 in 2015 to 677 in 2017, with CAGR 53%. These customers are loyal customers that have been ours for more than 1 year. TOtal loyal customer's spending has also increased from $203K in 2015 to $695K in 2017 with CAGR 85%, AOV has decline from $227 in 2015 to $219 in 2017 with CAGR -2%.
 
 ### Regional Comparison
+
+1. West region have dominated sales revenue from beginning of establishment in 2014 to 2017. The sales revenue has been showing increasing trends from $148K in 2014 to $250K in 2017, representing a CAGR 19%. Sales revenue growth is driven by an increase in sales volume from 2533 units sold in 2014 to 4270 units sold in 2017, representing a CAGR 19%.  
