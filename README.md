@@ -14,7 +14,7 @@ The SQL queries regarding business analysis can be found here
 
  ## Data Structure Overview
  **SuperMart** database structure as seen below consists of 1 table:  with a total row count of 9994 records
- <img src="https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/Data%20Structure.png" width="45%">
+ <img src="https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/Data%20Structure.png" width="35%">
  
  ## Executive Summary
 
