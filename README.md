@@ -12,6 +12,9 @@ Business growth, customers acquisition and retention have been the main goals to
 An interactive Tableau dashboard can be downloaded here
 The SQL queries regarding business analysis can be found here [here](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/479152eb7ff487aef7e304daf5ad866ecb5012b8/Analysis.sql
 )
+
+An Interactive Tableau Dashboard can be downloaded here [here](https://public.tableau.com/app/profile/handoko.sugiarto/viz/SuperMartAnalysis_17769710077740/SuperMartAnalysis)
+ 
  ## Data Structure Overview
  **SuperMart** database structure as seen below consists of 1 table:  with a total row count of 9994 records
  <img src="https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/Data%20Structure.png" width="35%">
