@@ -2,7 +2,13 @@
 
 ## Table of Content
 
+Company Background [Company Background](#company-background)
+
+North Star Metrics [North Star Metrics](#north-star-metrics]
+
 Data Structure Overview [Data Structure Overview](#data-structure-overview)
+
+Executive Summary [Executive Summary](#executive-summary)
 
 
 ## Company Background
