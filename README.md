@@ -1,6 +1,8 @@
 # SuperMart_Analysis_2014-2017
-Table of Content
-Data Structure flow [Data Structure flow](#data-structure-overview)
+
+## Table of Content
+
+Data Structure Overview [Data Structure Overview](#data-structure-overview)
 
 
 ## Company Background
