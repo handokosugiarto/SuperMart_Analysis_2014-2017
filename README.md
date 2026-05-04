@@ -1,4 +1,8 @@
 # SuperMart_Analysis_2014-2017
+Table of Content
+Data Structure flow [Data Structure flow](##data-structure-overview)
+
+
 ## Company Background
 **SuperMart** is  a retail chain store that operates across the United States offering a wide range of products including office supplies, furnitures, technology, and appliances. The company has 531 retail stores that operates across the United States with 10,000+ employees generating annual sales that grew from $484,000 in 2014 to $730,000 in 2017. 
 
@@ -14,6 +18,8 @@ The SQL queries regarding business analysis can be found here [here](https://git
 )
 
 An Interactive Tableau Dashboard can be downloaded here [here](https://public.tableau.com/app/profile/handoko.sugiarto/viz/SuperMartAnalysis_17769710077740/SuperMartAnalysis)
+
+Data Cleaning SQL here [here](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/df4c4100d0a62f6d589ab9f2f9f698a8ba9cd77e/Data-Cleaning.sql)
  
  ## Data Structure Overview
  **SuperMart** database structure as seen below consists of 1 table:  with a total row count of 9994 records
